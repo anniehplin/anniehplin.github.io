@@ -11,7 +11,7 @@ I am a PhD student in Political Science at the University of California, San Die
 
 My research focuses on international institutions, international political economy, ocean governance, and global commons politics. In my work, I use network analysis, text analysis, and ideal point estimation to study how states and institutions coordinate under conditions of institutional complexity.
 
-Research
+Current Focus
 ======
 
 My current work examines contestation over deep-sea mining and the politics of critical minerals in the global commons. I am particularly interested in how states diverge in their positions on emerging governance regimes and how institutional design shapes cooperation across overlapping international bodies.
@@ -25,13 +25,6 @@ Education
 - MA in Political Science, National Taiwan University, 2024
 - Visiting Graduate Student, University of Wisconsin-Madison, 2022-2023
 - BSS in East Asian Studies, National Taiwan Normal University, 2021
-
-Selected Work
-======
-
-- [Mapping institutional deference in the marine biodiversity regime complex](/publication/2025-01-01-mapping-institutional-deference/)
-- [Critical Minerals and the Politics of the Global Commons: Why States Diverge on Deep-Sea Mining?](/publication/2026-01-01-critical-minerals-global-commons/)
-- [Regime Complex of Marine Biodiversity Beyond National Jurisdiction: An Analysis of Institutional Deference](/publication/2024-06-01-regime-complex-bbnj-thesis/)
 
 Links
 ======
