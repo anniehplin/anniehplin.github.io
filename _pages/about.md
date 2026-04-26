@@ -1,15 +1,15 @@
 ---
 permalink: /
 title: "Annie Hui-Ping Lin"
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a PhD student in Political Science at the University of California, San Diego, working in International Relations and Political Methodology. I am also affiliated with the Program for Interdisciplinary Environmental Research (PIER).
+I am a PhD student in Political Science at UC San Diego. I study global governance, international institutions, and international political economy.
 
-My research interests include international institutions, international political economy, ocean governance, and global commons politics. In my work, I use network analysis, text analysis, and ideal point estimation.
+My research explores the governance of global commons, currently with a focus on environmental issues and marine affairs. I am interested in institutional complexity and the interaction between international law-making and domestic politics and institutions.
 
 About
 ======
