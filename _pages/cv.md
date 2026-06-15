@@ -9,6 +9,6 @@ redirect_from:
 
 My current CV is available here:
 
-* [Download CV (PDF)](/files/Lin_CV_Mar_2026.pdf)
+* [Download CV (PDF)](/files/Lin_Full_CV_June_2026.pdf)
 
 You can also find selected research information on the [Research](/research/) page.

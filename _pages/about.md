@@ -19,7 +19,7 @@ This site provides a brief overview of my research and teaching. For a full reco
 Links
 ======
 
-- [CV (PDF)](/files/Lin_CV_Mar_2026.pdf)
+- [CV (PDF)](/files/Lin_Full_CV_June_2026.pdf)
 - [Google Scholar](https://scholar.google.com/citations?user=4lubvigAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0009-0009-3403-689X)
 - [GitHub](https://github.com/anniehplin)
