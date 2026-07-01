@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Political Science at UC San Diego. I study global governance, international institutions, and international political economy.
+I am a PhD student in Political Science at UC San Diego. I study international institutions, global governance, and international political economy.
 
-My research explores the governance of global commons, currently with a focus on environmental issues and marine affairs. I am interested in institutional complexity and the interaction between international law-making and domestic politics and institutions.
+My current research examines how people and states evaluate participation in international organizations, especially when institutional access is shaped by sovereignty disputes, geopolitical pressure, and recognition politics. I am developing a dissertation project on institutional participation, legitimacy, and domestic political contestation in global governance.
 
 About
 ======
