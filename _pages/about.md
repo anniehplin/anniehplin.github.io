@@ -9,8 +9,6 @@ redirect_from:
 
 I am a PhD student in Political Science at UC San Diego. I study international institutions and international political economy in ocean and environmental governance.
 
-I am developing a dissertation project on how global governance actors negotiate compatibility across overlapping institutions, legal regimes, and domestic political constraints.
-
 About
 ======
 
