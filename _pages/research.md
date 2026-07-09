@@ -7,7 +7,9 @@ redirect_from:
   - /publications/
 ---
 
-My research interests include international institutions, international political economy, public opinion in global governance, legitimacy, and the politics of participation in international organizations. Methodologically, I work with network analysis, text analysis, and ideal point estimation.
+My research examines how states and other global governance actors navigate institutional complexity, especially in ocean and environmental governance. I am interested in how actors make rules, commitments, and political interests compatible across overlapping institutions and levels of governance.
+
+Methodologically, I work with network analysis, text analysis, and ideal point estimation.
 
 Publication
 ======
@@ -17,6 +19,8 @@ Publication
 Current Projects
 ======
 
-* Dissertation project in development: institutional participation, recognition politics, and legitimacy in global governance.
+* Critical Minerals and the Politics of the Global Commons: Why Do States Diverge on Deep-Sea Mining?
+* Dissertation project in development: compatibility and contestation in global governance.
+* Additional early-stage projects on international institutions and environmental governance.
 
 For a fuller list of work and updates, see my [Google Scholar](https://scholar.google.com/citations?user=4lubvigAAAAJ&hl=en) profile and [CV](/files/Lin_Full_CV_June_2026.pdf).
