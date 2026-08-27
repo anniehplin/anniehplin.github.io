@@ -21,4 +21,4 @@ Current Projects
 
 * Critical Minerals and the Politics of the Global Commons: Why Do States Diverge on Deep-Sea Mining?
 
-For a fuller list of work and updates, see my [Google Scholar](https://scholar.google.com/citations?user=4lubvigAAAAJ&hl=en) profile and [CV](/files/Lin_Full_CV_June_2026.pdf).
+For a fuller list of work and updates, see my [Google Scholar](https://scholar.google.com/citations?user=4lubvigAAAAJ&hl=en) profile and [CV](/files/Lin_Full_CV_August_2026.pdf).
